@@ -1,6 +1,7 @@
 # Proyecto Final JS
 
 Este es un proyecto final de la diplomatura de desarrollo frontend de la UNTREF. Consiste en un sitio web de tienda en línea. El objetivo principal del proyecto es mostrar los conocimientos adquiridos durante el curso, en especial JavaScript.
+Link: https://github.com/emiliano-nunez/prodar/deployments/github-pages
 
 ## Características
 - **API Swiper:** Se utiliza la biblioteca Swiper para crear un carrusel de imágenes en la página principal.
